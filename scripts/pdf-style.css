@@ -1,215 +1,283 @@
 /*
  * pdf-style.css — I Lupi dell'Assia (Rural Gothic)
- * Layout: A4, colonna singola, tema scuro
- * Font: Georgia corpo, Cinzel titoli
+ * Layout replicato da "The Mystery of the Dutch Hangman"
+ * Due colonne, tipografia densa, IM Fell English + Georgia
+ * Formato: US Letter
  */
+
+/* ═══════════════════════════════════════════════
+   FONT FACES
+   ═══════════════════════════════════════════════ */
+
+@font-face {
+  font-family: 'IM Fell English';
+  src: url('../assets/fonts/im-fell-english-latin-400-normal.ttf') format('truetype');
+  font-weight: 400; font-style: normal;
+}
+@font-face {
+  font-family: 'IM Fell English';
+  src: url('../assets/fonts/im-fell-english-latin-400-italic.ttf') format('truetype');
+  font-weight: 400; font-style: italic;
+}
+@font-face {
+  font-family: 'Georgia';
+  src: url('../assets/fonts/georgia-400-normal.ttf') format('truetype');
+  font-weight: 400; font-style: normal;
+}
+@font-face {
+  font-family: 'Georgia';
+  src: url('../assets/fonts/georgia-400-italic.ttf') format('truetype');
+  font-weight: 400; font-style: italic;
+}
+@font-face {
+  font-family: 'Georgia';
+  src: url('../assets/fonts/georgia-700-normal.ttf') format('truetype');
+  font-weight: 700; font-style: normal;
+}
+@font-face {
+  font-family: 'Georgia';
+  src: url('../assets/fonts/georgia-700-italic.ttf') format('truetype');
+  font-weight: 700; font-style: italic;
+}
 
 /* ═══════════════════════════════════════════════
    VARIABILI
    ═══════════════════════════════════════════════ */
 
 :root {
-  --c-sfondo:       #F5F0E8;
-  --c-testo:        #1A1A1A;
-  --c-testo-sec:    #4A3A2A;
-  --c-oro:          #8B7340;
-  --c-oro-chiaro:   #C4A45A;
-  --c-cremisi:      #6B1F1F;
-  --c-bordo:        #8B7D6B;
-  --c-bordo-chiaro: #C4A45A;
-  --c-tabella-hdr:  #1A1A1A;
-  --c-tabella-alt:  #EDE8D8;
-  --c-fix-bg:       #FFF0F0;
-  --c-fix-hdr:      #8B0000;
-
-  --f-titolo:  'Cinzel', 'Georgia', serif;
-  --f-corpo:   'Georgia', serif;
-  --f-tabella: 'Georgia', serif;
+  --f-titolo:   'IM Fell English', 'Georgia', serif;
+  --f-corpo:    'Georgia', serif;
+  --c-testo:    #1A1008;
+  --c-testo-sec: #3A2A1A;
+  --c-bordo:    #2A2A2A;
+  --c-sfondo-box: #F0EDE5;
 }
 
 /* ═══════════════════════════════════════════════
-   PAGINE — A4
+   PAGINE — US Letter
    ═══════════════════════════════════════════════ */
 
 @page {
-  size: A4;
-  margin: 25mm 20mm 22mm 20mm;
+  size: 215.9mm 279.4mm;
+  margin: 15mm 15mm 18mm 15mm;
 
   @bottom-center {
     content: counter(page);
     font-family: var(--f-corpo);
-    font-size: 8pt;
-    color: var(--c-testo-sec);
-  }
-  @bottom-left {
-    content: "I Lupi dell'Assia";
-    font-family: var(--f-corpo);
     font-size: 7pt;
-    color: var(--c-testo-sec);
-    font-style: italic;
-  }
-  @bottom-right {
-    content: "Rural Gothic — v1.1";
-    font-family: var(--f-corpo);
-    font-size: 7pt;
-    color: var(--c-testo-sec);
+    color: #666;
   }
 }
 
 @page :first {
-  @bottom-left { content: none; }
-  @bottom-right { content: none; }
+  margin-top: 12mm;
   @bottom-center { content: none; }
 }
 
 /* ═══════════════════════════════════════════════
-   CORPO
+   CORPO — Due colonne, testo denso
    ═══════════════════════════════════════════════ */
 
 html, body {
   font-family: var(--f-corpo);
-  font-size: 10pt;
-  line-height: 1.45;
+  font-size: 8.5pt;
+  line-height: 1.3;
   color: var(--c-testo);
   background: #FFFFFF;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  columns: 2;
+  column-gap: 6mm;
+  column-rule: 0.3pt solid #CCC;
+  orphans: 3;
+  widows: 3;
+}
+
+p {
+  margin: 0 0 0.4em 0;
+  text-align: justify;
+  hyphens: auto;
+  text-indent: 0;
 }
 
 /* ═══════════════════════════════════════════════
-   TITOLI
+   TITOLO MODULO (H1) — Stile Hangman
    ═══════════════════════════════════════════════ */
 
 h1 {
   font-family: var(--f-titolo);
-  font-size: 20pt;
-  font-weight: 700;
+  font-size: 22pt;
+  font-weight: 400;
   color: var(--c-testo);
   text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  margin-top: 2em;
-  margin-bottom: 0.8em;
-  padding-bottom: 0.3em;
-  border-bottom: 1.5pt solid var(--c-bordo-chiaro);
+  letter-spacing: 0.04em;
+  margin: 0.6em 0 0.3em 0;
+  padding-bottom: 0.15em;
+  column-span: all;
+  font-variant: small-caps;
+  border-bottom: none;
   page-break-before: always;
+  page-break-after: avoid;
 }
 
 h1:first-child,
-.cover-page + * h1:first-child,
-section:first-child h1 {
+.cover-page h1 {
   page-break-before: avoid;
-}
-
-h2 {
-  font-family: var(--f-titolo);
-  font-size: 14pt;
-  font-weight: 700;
-  color: var(--c-testo);
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-  letter-spacing: 0.04em;
-}
-
-h3 {
-  font-family: var(--f-corpo);
-  font-size: 11pt;
-  font-weight: 700;
-  color: var(--c-testo);
-  margin-top: 1.2em;
-  margin-bottom: 0.4em;
-  font-style: italic;
+  font-size: 28pt;
+  margin-top: 0.2em;
 }
 
 /* ═══════════════════════════════════════════════
-   PARAGRAFI & TESTO
+   SEZIONI (H2) — Stile "THE MYSTERY" dell'Hangman
    ═══════════════════════════════════════════════ */
 
-p {
-  margin: 0.4em 0;
-  text-align: justify;
-  hyphens: auto;
+h2 {
+  font-family: var(--f-titolo);
+  font-size: 13pt;
+  font-weight: 400;
+  color: var(--c-testo);
+  text-align: center;
+  margin: 0.8em 0 0.3em 0;
+  padding: 0.15em 0;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  column-span: all;
+  page-break-after: avoid;
 }
+
+h2::after {
+  content: "\2014\2009\2726\2008\2740\2008\2726\2008\2740\2008\2726\2008\2740\2008\2726\2009\2014";
+  display: block;
+  text-align: center;
+  font-size: 7pt;
+  color: #888;
+  margin-top: 0.15em;
+  letter-spacing: 0.15em;
+  font-variant: normal;
+}
+
+/* ═══════════════════════════════════════════════
+   SOTTO-SEZIONI (H3) — Stile NPC/Location header
+   ═══════════════════════════════════════════════ */
+
+h3 {
+  font-family: var(--f-titolo);
+  font-size: 10.5pt;
+  font-weight: 400;
+  color: var(--c-testo);
+  margin: 0.7em 0 0.15em 0;
+  padding-bottom: 0.05em;
+  border-bottom: 0.5pt solid var(--c-testo);
+  font-variant: small-caps;
+  letter-spacing: 0.03em;
+  page-break-after: avoid;
+}
+
+h4 {
+  font-family: var(--f-titolo);
+  font-size: 9pt;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--c-testo);
+  margin: 0.5em 0 0.1em 0;
+  page-break-after: avoid;
+}
+
+/* ═══════════════════════════════════════════════
+   INLINE
+   ═══════════════════════════════════════════════ */
 
 strong { font-weight: 700; }
 em { font-style: italic; }
 
 /* ═══════════════════════════════════════════════
-   BLOCKQUOTES — Note Cronista
+   LISTE — Cross markers come nell'Hangman
+   ═══════════════════════════════════════════════ */
+
+ul {
+  list-style: none;
+  padding-left: 1em;
+  margin: 0.3em 0;
+}
+
+ul li {
+  position: relative;
+  padding-left: 0;
+  margin-bottom: 0.15em;
+}
+
+ul li::before {
+  content: "\2715";
+  position: absolute;
+  left: -1em;
+  font-size: 7pt;
+  top: 0.1em;
+  color: var(--c-testo);
+}
+
+ol {
+  padding-left: 1.5em;
+  margin: 0.3em 0;
+}
+
+ol li { margin-bottom: 0.15em; }
+
+/* ═══════════════════════════════════════════════
+   BLOCKQUOTES — Note Cronista / Citazioni
    ═══════════════════════════════════════════════ */
 
 blockquote {
-  margin: 1em 0;
-  padding: 0.8em 1.2em;
-  border-left: 3pt solid var(--c-bordo-chiaro);
-  background: var(--c-tabella-alt);
-  font-size: 9.5pt;
+  margin: 0.5em 0;
+  padding: 0.5em 0.7em;
+  border-left: 2pt solid #888;
+  background: var(--c-sfondo-box);
+  font-size: 8pt;
   color: var(--c-testo-sec);
   page-break-inside: avoid;
 }
 
 blockquote p {
-  margin: 0.3em 0;
-}
-
-blockquote em {
-  font-style: italic;
+  margin: 0.2em 0;
+  text-indent: 0;
 }
 
 /* ═══════════════════════════════════════════════
-   TABELLE
+   TABELLE — Compatte, stile Hangman
    ═══════════════════════════════════════════════ */
 
 table {
   width: 100%;
   border-collapse: collapse;
-  margin: 1em 0;
-  font-size: 9pt;
+  margin: 0.5em 0;
+  font-size: 7.5pt;
+  line-height: 1.25;
   page-break-inside: avoid;
+  column-span: all;
 }
 
 thead th {
-  background: var(--c-tabella-hdr);
+  background: var(--c-testo);
   color: #FFFFFF;
   font-weight: 700;
-  padding: 6px 10px;
+  padding: 3px 5px;
   text-align: left;
-  font-size: 8.5pt;
+  font-size: 7pt;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  border: 0.5pt solid var(--c-testo);
 }
 
 tbody td {
-  padding: 5px 10px;
-  border-bottom: 0.5pt solid var(--c-bordo);
+  padding: 2px 5px;
+  border-bottom: 0.3pt solid #AAA;
   vertical-align: top;
 }
 
 tbody tr:nth-child(even) {
-  background: var(--c-tabella-alt);
-}
-
-/* ═══════════════════════════════════════════════
-   FIX BOXES (v1.1)
-   ═══════════════════════════════════════════════ */
-
-.fix-box {
-  border: 1.5pt solid var(--c-fix-hdr);
-  margin: 1em 0;
-  page-break-inside: avoid;
-}
-
-.fix-box-header {
-  background: var(--c-fix-hdr);
-  color: #FFFFFF;
-  padding: 4px 10px;
-  font-weight: 700;
-  font-size: 9pt;
-  text-align: center;
-}
-
-.fix-box-content {
-  background: var(--c-fix-bg);
-  padding: 8px 12px;
-  font-size: 9pt;
+  background: #F5F2EB;
 }
 
 /* ═══════════════════════════════════════════════
@@ -217,45 +285,40 @@ tbody tr:nth-child(even) {
    ═══════════════════════════════════════════════ */
 
 .cover-page {
+  column-span: all;
   text-align: center;
-  padding-top: 120px;
-  min-height: 700px;
+  padding-top: 80px;
+  padding-bottom: 40px;
 }
 
 .cover-page h1 {
-  font-size: 36pt;
+  font-size: 32pt;
   border: none;
-  margin-top: 1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.2em;
   page-break-before: avoid;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.08em;
+}
+
+.cover-page p {
+  text-align: center;
+  margin: 0.3em 0;
 }
 
 .cover-page em {
-  font-size: 14pt;
+  font-family: var(--f-titolo);
+  font-size: 12pt;
   color: var(--c-testo-sec);
 }
 
 .cover-page blockquote {
   border: none;
   background: none;
-  font-size: 11pt;
+  font-size: 10pt;
   font-style: italic;
   color: var(--c-testo-sec);
-  margin-top: 2em;
-}
-
-/* ═══════════════════════════════════════════════
-   LETTER BOXES (Lettere dell'Oberst)
-   ═══════════════════════════════════════════════ */
-
-.letter-box {
-  border: 1pt solid var(--c-bordo);
-  background: var(--c-tabella-alt);
-  padding: 12px 18px;
-  margin: 1em 0;
-  font-style: italic;
-  font-size: 9.5pt;
-  page-break-inside: avoid;
+  margin-top: 1.5em;
+  padding: 0;
 }
 
 /* ═══════════════════════════════════════════════
@@ -264,76 +327,28 @@ tbody tr:nth-child(even) {
 
 hr {
   border: none;
-  border-top: 1pt solid var(--c-bordo-chiaro);
-  margin: 1.5em auto;
-  width: 40%;
-}
-
-.sep {
   text-align: center;
-  color: var(--c-oro);
-  font-size: 12pt;
-  margin: 1em 0;
-  letter-spacing: 0.5em;
+  margin: 0.6em 0;
+  column-span: all;
 }
 
-/* ═══════════════════════════════════════════════
-   CHARACTER CARDS
-   ═══════════════════════════════════════════════ */
-
-.character-card {
-  border: 1pt solid var(--c-bordo);
-  margin: 0.8em 0;
-  page-break-inside: avoid;
-}
-
-.character-card-header {
-  background: var(--c-tabella-hdr);
-  color: #FFFFFF;
-  padding: 4px 10px;
-  text-align: center;
+hr::after {
+  content: "\2726 \2726 \2726";
   font-size: 8pt;
-  font-style: italic;
-}
-
-.character-card-name {
-  text-align: center;
-  font-weight: 700;
-  font-size: 12pt;
-  padding: 6px;
-}
-
-.character-card-quote {
-  text-align: center;
-  font-style: italic;
-  font-size: 9pt;
-  padding: 4px 10px;
-  background: var(--c-tabella-alt);
-  color: var(--c-testo-sec);
-}
-
-.character-card-body {
-  padding: 6px 10px;
-  font-size: 9pt;
-}
-
-.character-card-stats {
-  background: var(--c-tabella-hdr);
-  color: #FFFFFF;
-  padding: 4px 10px;
-  text-align: center;
-  font-weight: 700;
-  font-size: 9pt;
+  color: #888;
+  letter-spacing: 0.4em;
 }
 
 /* ═══════════════════════════════════════════════
-   UTILITÀ
+   UTILITA
    ═══════════════════════════════════════════════ */
 
-.page-break { page-break-before: always; }
+.page-break { page-break-before: always; column-span: all; }
 .no-break { page-break-inside: avoid; }
+.span-all { column-span: all; }
+.text-center { text-align: center; }
+.small { font-size: 7.5pt; }
 
-/* Print-specific */
 @media print {
   body { margin: 0; padding: 0; }
 }
