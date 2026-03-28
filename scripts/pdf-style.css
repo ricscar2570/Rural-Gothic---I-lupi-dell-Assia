@@ -1,0 +1,339 @@
+/*
+ * pdf-style.css — I Lupi dell'Assia (Rural Gothic)
+ * Layout: A4, colonna singola, tema scuro
+ * Font: Georgia corpo, Cinzel titoli
+ */
+
+/* ═══════════════════════════════════════════════
+   VARIABILI
+   ═══════════════════════════════════════════════ */
+
+:root {
+  --c-sfondo:       #F5F0E8;
+  --c-testo:        #1A1A1A;
+  --c-testo-sec:    #4A3A2A;
+  --c-oro:          #8B7340;
+  --c-oro-chiaro:   #C4A45A;
+  --c-cremisi:      #6B1F1F;
+  --c-bordo:        #8B7D6B;
+  --c-bordo-chiaro: #C4A45A;
+  --c-tabella-hdr:  #1A1A1A;
+  --c-tabella-alt:  #EDE8D8;
+  --c-fix-bg:       #FFF0F0;
+  --c-fix-hdr:      #8B0000;
+
+  --f-titolo:  'Cinzel', 'Georgia', serif;
+  --f-corpo:   'Georgia', serif;
+  --f-tabella: 'Georgia', serif;
+}
+
+/* ═══════════════════════════════════════════════
+   PAGINE — A4
+   ═══════════════════════════════════════════════ */
+
+@page {
+  size: A4;
+  margin: 25mm 20mm 22mm 20mm;
+
+  @bottom-center {
+    content: counter(page);
+    font-family: var(--f-corpo);
+    font-size: 8pt;
+    color: var(--c-testo-sec);
+  }
+  @bottom-left {
+    content: "I Lupi dell'Assia";
+    font-family: var(--f-corpo);
+    font-size: 7pt;
+    color: var(--c-testo-sec);
+    font-style: italic;
+  }
+  @bottom-right {
+    content: "Rural Gothic — v1.1";
+    font-family: var(--f-corpo);
+    font-size: 7pt;
+    color: var(--c-testo-sec);
+  }
+}
+
+@page :first {
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+  @bottom-center { content: none; }
+}
+
+/* ═══════════════════════════════════════════════
+   CORPO
+   ═══════════════════════════════════════════════ */
+
+html, body {
+  font-family: var(--f-corpo);
+  font-size: 10pt;
+  line-height: 1.45;
+  color: var(--c-testo);
+  background: #FFFFFF;
+}
+
+/* ═══════════════════════════════════════════════
+   TITOLI
+   ═══════════════════════════════════════════════ */
+
+h1 {
+  font-family: var(--f-titolo);
+  font-size: 20pt;
+  font-weight: 700;
+  color: var(--c-testo);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.3em;
+  border-bottom: 1.5pt solid var(--c-bordo-chiaro);
+  page-break-before: always;
+}
+
+h1:first-child,
+.cover-page + * h1:first-child,
+section:first-child h1 {
+  page-break-before: avoid;
+}
+
+h2 {
+  font-family: var(--f-titolo);
+  font-size: 14pt;
+  font-weight: 700;
+  color: var(--c-testo);
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  letter-spacing: 0.04em;
+}
+
+h3 {
+  font-family: var(--f-corpo);
+  font-size: 11pt;
+  font-weight: 700;
+  color: var(--c-testo);
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+  font-style: italic;
+}
+
+/* ═══════════════════════════════════════════════
+   PARAGRAFI & TESTO
+   ═══════════════════════════════════════════════ */
+
+p {
+  margin: 0.4em 0;
+  text-align: justify;
+  hyphens: auto;
+}
+
+strong { font-weight: 700; }
+em { font-style: italic; }
+
+/* ═══════════════════════════════════════════════
+   BLOCKQUOTES — Note Cronista
+   ═══════════════════════════════════════════════ */
+
+blockquote {
+  margin: 1em 0;
+  padding: 0.8em 1.2em;
+  border-left: 3pt solid var(--c-bordo-chiaro);
+  background: var(--c-tabella-alt);
+  font-size: 9.5pt;
+  color: var(--c-testo-sec);
+  page-break-inside: avoid;
+}
+
+blockquote p {
+  margin: 0.3em 0;
+}
+
+blockquote em {
+  font-style: italic;
+}
+
+/* ═══════════════════════════════════════════════
+   TABELLE
+   ═══════════════════════════════════════════════ */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  font-size: 9pt;
+  page-break-inside: avoid;
+}
+
+thead th {
+  background: var(--c-tabella-hdr);
+  color: #FFFFFF;
+  font-weight: 700;
+  padding: 6px 10px;
+  text-align: left;
+  font-size: 8.5pt;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+tbody td {
+  padding: 5px 10px;
+  border-bottom: 0.5pt solid var(--c-bordo);
+  vertical-align: top;
+}
+
+tbody tr:nth-child(even) {
+  background: var(--c-tabella-alt);
+}
+
+/* ═══════════════════════════════════════════════
+   FIX BOXES (v1.1)
+   ═══════════════════════════════════════════════ */
+
+.fix-box {
+  border: 1.5pt solid var(--c-fix-hdr);
+  margin: 1em 0;
+  page-break-inside: avoid;
+}
+
+.fix-box-header {
+  background: var(--c-fix-hdr);
+  color: #FFFFFF;
+  padding: 4px 10px;
+  font-weight: 700;
+  font-size: 9pt;
+  text-align: center;
+}
+
+.fix-box-content {
+  background: var(--c-fix-bg);
+  padding: 8px 12px;
+  font-size: 9pt;
+}
+
+/* ═══════════════════════════════════════════════
+   COPERTINA
+   ═══════════════════════════════════════════════ */
+
+.cover-page {
+  text-align: center;
+  padding-top: 120px;
+  min-height: 700px;
+}
+
+.cover-page h1 {
+  font-size: 36pt;
+  border: none;
+  margin-top: 1em;
+  page-break-before: avoid;
+  letter-spacing: 0.12em;
+}
+
+.cover-page em {
+  font-size: 14pt;
+  color: var(--c-testo-sec);
+}
+
+.cover-page blockquote {
+  border: none;
+  background: none;
+  font-size: 11pt;
+  font-style: italic;
+  color: var(--c-testo-sec);
+  margin-top: 2em;
+}
+
+/* ═══════════════════════════════════════════════
+   LETTER BOXES (Lettere dell'Oberst)
+   ═══════════════════════════════════════════════ */
+
+.letter-box {
+  border: 1pt solid var(--c-bordo);
+  background: var(--c-tabella-alt);
+  padding: 12px 18px;
+  margin: 1em 0;
+  font-style: italic;
+  font-size: 9.5pt;
+  page-break-inside: avoid;
+}
+
+/* ═══════════════════════════════════════════════
+   SEPARATORI
+   ═══════════════════════════════════════════════ */
+
+hr {
+  border: none;
+  border-top: 1pt solid var(--c-bordo-chiaro);
+  margin: 1.5em auto;
+  width: 40%;
+}
+
+.sep {
+  text-align: center;
+  color: var(--c-oro);
+  font-size: 12pt;
+  margin: 1em 0;
+  letter-spacing: 0.5em;
+}
+
+/* ═══════════════════════════════════════════════
+   CHARACTER CARDS
+   ═══════════════════════════════════════════════ */
+
+.character-card {
+  border: 1pt solid var(--c-bordo);
+  margin: 0.8em 0;
+  page-break-inside: avoid;
+}
+
+.character-card-header {
+  background: var(--c-tabella-hdr);
+  color: #FFFFFF;
+  padding: 4px 10px;
+  text-align: center;
+  font-size: 8pt;
+  font-style: italic;
+}
+
+.character-card-name {
+  text-align: center;
+  font-weight: 700;
+  font-size: 12pt;
+  padding: 6px;
+}
+
+.character-card-quote {
+  text-align: center;
+  font-style: italic;
+  font-size: 9pt;
+  padding: 4px 10px;
+  background: var(--c-tabella-alt);
+  color: var(--c-testo-sec);
+}
+
+.character-card-body {
+  padding: 6px 10px;
+  font-size: 9pt;
+}
+
+.character-card-stats {
+  background: var(--c-tabella-hdr);
+  color: #FFFFFF;
+  padding: 4px 10px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 9pt;
+}
+
+/* ═══════════════════════════════════════════════
+   UTILITÀ
+   ═══════════════════════════════════════════════ */
+
+.page-break { page-break-before: always; }
+.no-break { page-break-inside: avoid; }
+
+/* Print-specific */
+@media print {
+  body { margin: 0; padding: 0; }
+}
