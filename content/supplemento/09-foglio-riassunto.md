@@ -95,7 +95,7 @@ L'OBERST → 7+ GT, Quercia del Patibolo (8) — il Processo
 ------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
-QUICK REFERENCE FIX v1.1
+RIFERIMENTO RAPIDO
 
 Confessione: -1 GT una volta per PG per sopravvissuto (non ripetibile)
 

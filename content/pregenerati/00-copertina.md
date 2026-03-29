@@ -10,6 +10,4 @@ title: "Copertina Pregenerati"
 
 ✦ ✦ ✦
 
-**v1.1 — Post Chaos Testing**
-
 </div>

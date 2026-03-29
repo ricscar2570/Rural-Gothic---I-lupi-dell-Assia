@@ -6,9 +6,7 @@ title: "La Manifestazione: Il Processo"
 
 A 7+ Gettoni Terrore (o alla fine del G5, il primo dei due), il Processo ha inizio. Non è un combattimento, è un evento narrativo. Il Diavolo non può essere sconfitto con la violenza.
 
-
-> **[v1.1] Se i GT raggiungono 7 prima del G5 (anche al G1), il Processo avviene IMMEDIATAMENTE. L'Oberst appare senza attendere le lettere rimanenti e rivela tutto direttamente.**
-
+Se i GT raggiungono 7 prima del G5 (anche al G1), il Processo avviene IMMEDIATAMENTE. L'Oberst appare senza attendere le lettere rimanenti e rivela tutto direttamente.
 
 L'Oberst in Persona
 
@@ -22,9 +20,7 @@ Prova di Volontà (17): Fallimento = paralisi. Il PG non può muoversi, non può
 
 Tentazione: L'Oberst offre un ultimo dono. 'Posso farvi dimenticare di nuovo. Tutto. La valle, i vostri crimini, questa conversazione. Potete tornare alle vostre vite. Tutto ciò che chiedo è... un favore. In futuro. Quando vi chiamerò.' Se un PG accetta: perde l'anima. Se tutti rifiutano: il Processo procede al verdetto.
 
-
-> **[v1.1] Tentazione Mista: Se uno o più PG accettano e altri rifiutano: chi accetta si sveglia ai margini senza ricordi (anima perduta). Chi rifiuta prosegue al verdetto. Il contrasto è devastante.**
-
+Tentazione Mista: Se uno o più PG accettano e altri rifiutano: chi accetta si sveglia ai margini senza ricordi (anima perduta). Chi rifiuta prosegue al verdetto. Il contrasto è devastante.
 
 
 > *Nota Cronista: Il Processo non è un boss fight. Non esiste un modo per 'vincere.' L'obiettivo è dare ai giocatori un momento drammatico devastante: la consapevolezza totale dei propri crimini e l'impossibilità di sfuggire alle conseguenze. Lascia che i giocatori parlino, confessino, piangano, si arrabbino. Il Diavolo ascolta tutto. Con pazienza infinita. Con quel sorriso.*

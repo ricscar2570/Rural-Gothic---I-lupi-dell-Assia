@@ -28,11 +28,11 @@ GETTONI   MANIFESTAZIONI                                                        
 
 Accumulo (+1 GT)
 
-Scoprire prove che collegano i PG ai crimini. Leggere testimonianze dei sopravvissuti. Trovare i propri oggetti sulla scena. Ogni nuova lettera dell'Oberst. Tentare di fuggire dalla valle (i sentieri riportano sempre indietro). Mentire a un sopravvissuto sulla propria identità. Distruggere prove (+1 GT per prova) [v1.1]. Tentare di distruggere una lettera [v1.1]. Attaccare Henkel dalla seconda volta in poi [v1.1].
+Scoprire prove che collegano i PG ai crimini. Leggere testimonianze dei sopravvissuti. Trovare i propri oggetti sulla scena. Ogni nuova lettera dell'Oberst. Tentare di fuggire dalla valle (i sentieri riportano sempre indietro). Mentire a un sopravvissuto sulla propria identità. Distruggere prove (+1 GT per prova) . Tentare di distruggere una lettera . Attaccare Henkel dalla seconda volta in poi .
 
-Riduzione (-1 GT) [Limiti v1.1]
+Riduzione (-1 GT)
 
-Confessare genuinamente a un sopravvissuto: -1 GT, una sola volta per PG per sopravvissuto [v1.1]. Seppellire con rispetto i resti delle vittime: -1 GT, azione singola per l'intera partita [v1.1]. Pregare nella chiesa bruciata con rimorso sincero: -1 GT, una sola volta per gruppo per partita. Proteggere attivamente un sopravvissuto mettendosi in pericolo reale e non provocato: -1 GT, massimo -2 GT totali per l'intera partita tramite questa via [v1.1].
+Confessare genuinamente a un sopravvissuto: -1 GT, una sola volta per PG per sopravvissuto . Seppellire con rispetto i resti delle vittime: -1 GT, azione singola per l'intera partita . Pregare nella chiesa bruciata con rimorso sincero: -1 GT, una sola volta per gruppo per partita. Proteggere attivamente un sopravvissuto mettendosi in pericolo reale e non provocato: -1 GT, massimo -2 GT totali per l'intera partita tramite questa via .
 
 
-> *Nota Cronista: La riduzione è limitata e temporanea. Il Diavolo permette piccoli momenti di apparente redenzione perché rendono la caduta finale più dolorosa. Ogni GT ridotto può essere riguadagnato con la prossima lettera. La spirale è inesorabile. [v1.1] Con i limiti applicati, la riduzione massima possibile per l'intera partita è -5 GT (1 confessione Elijah + 1 confessione Hannah + 1 sepoltura + 1 preghiera + 1 protezione), insufficiente a fermare la progressione delle lettere.*
+> *Nota Cronista: La riduzione è limitata e temporanea. Il Diavolo permette piccoli momenti di apparente redenzione perché rendono la caduta finale più dolorosa. Ogni GT ridotto può essere riguadagnato con la prossima lettera. La spirale è inesorabile. Con i limiti applicati, la riduzione massima possibile per l'intera partita è -5 GT (1 confessione Elijah + 1 confessione Hannah + 1 sepoltura + 1 preghiera + 1 protezione), insufficiente a fermare la progressione delle lettere.*

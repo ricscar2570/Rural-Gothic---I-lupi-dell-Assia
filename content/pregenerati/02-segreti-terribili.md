@@ -8,9 +8,7 @@ title: "Segreti Terribili"
 
 Il Cronista distribuisce a ciascun giocatore un foglietto con il segreto del proprio personaggio PRIMA dell'inizio della partita. I giocatori NON devono condividerli. I segreti funzionano su due livelli: ciò che il giocatore sa all'inizio (un'inquietudine confusa) e il crimine completo, che emerge durante il gioco.
 
-
-> *Nota v1.1: Nella Variante Consapevole (raccomandata per tavoli esperti), i giocatori ricevono sia il foglietto che il crimine completo all'inizio. Il dramma diventa gestire la colpa, non scoprirla.*
-
+Nota: Nella Variante Consapevole (raccomandata per tavoli esperti), i giocatori ricevono sia il foglietto che il crimine completo all'inizio. Il dramma diventa gestire la colpa, non scoprirla.
 
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | SEGRETO #1: Feldwebel Karl Brandt                                                                                                                                                                                                                                                                                                                                                                                            |

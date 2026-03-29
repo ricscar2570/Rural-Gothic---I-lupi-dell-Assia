@@ -6,9 +6,7 @@ title: "I Finali"
 
 Non c'è vittoria. Non c'è redenzione. Il Diavolo ha pianificato ogni variabile, anticipato ogni scelta, chiuso ogni uscita. Il contratto è stato firmato nel momento in cui i PG hanno accettato gli ordini dell'Oberst. Tutto ciò che cambia è come cadono.
 
-
-> **[v1.1] GT al momento del Processo determinano il TONO: 0-2 GT: L'Oberst è quasi rispettoso. 3-5 GT: Tono standard. 6+ GT: L'Oberst è gelido. 7+ GT: Il Processo è accelerato, nessun dialogo, solo verdetto.**
-
+GT al momento del Processo determinano il TONO: 0-2 GT: L'Oberst è quasi rispettoso. 3-5 GT: Tono standard. 6+ GT: L'Oberst è gelido. 7+ GT: Il Processo è accelerato, nessun dialogo, solo verdetto.
 
 LA CONFESSIONE, Caduta con Dignità
 

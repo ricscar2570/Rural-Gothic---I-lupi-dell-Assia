@@ -4,7 +4,15 @@ title: "Albero Decisionale: I Tre Momenti Critici"
 
 # Albero Decisionale: I Tre Momenti Critici
 
-Questa sezione fornisce al Cronista un supporto strutturato per i tre momenti più delicati dello scenario. Non sostituisce il giudizio del Cronista, ma offre percorsi testati per gestire situazioni complesse.
+Questa sezione fornisce al Cronista un supporto strutturato per i momenti più delicati dello scenario. Non sostituisce il giudizio del Cronista, ma offre percorsi testati per gestire situazioni complesse.
+
+### Momento 0: Giocatori Passivi
+
+Se i PG si barricano e rifiutano di esplorare.
+G1 senza esplorazione: Nessun intervento. I giocatori hanno diritto a essere cauti. La seconda lettera arriva la sera come previsto.
+G2 senza esplorazione: I fantasmi compaiono dentro il rifugio dei PG. Non danno GT ma provocano flashback sensoriali. Il Cronista può anticipare la terza lettera alla mattina.
+G3 senza esplorazione: Elijah li trova. Si presenta da solo, li ha seguiti dall'arrivo. Il dilemma scatta indipendentemente dall'iniziativa dei PG. Da questo momento il ritmo si normalizza.
+Regola di fondo: le prove vanno dai PG, non viceversa. Il Diavolo ha costruito la trappola perché funzioni, non perché dipenda dalla curiosità delle vittime.
 
 
 ### Momento 1: La Rivelazione

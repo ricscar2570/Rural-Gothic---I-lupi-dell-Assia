@@ -14,7 +14,7 @@ Il Diavolo non ha un nome vero. In questa storia è l'Oberst Friedrich von Stein
 ### Le Lettere dell'Oberst
 
 
-Le lettere sono il meccanismo centrale dello scenario. L'Oberst ne invia una alla fine di ogni giornata (o quando il Cronista lo ritiene drammaticamente appropriato). Ogni lettera contiene nuove informazioni sui 'criminali', dettagli via via più specifici, più inquietanti, che corrispondono sempre di più ai PG.
+Le lettere sono il meccanismo centrale dello scenario. L'Oberst ne invia una alla fine di ogni giornata (o quando il Cronista lo ritiene drammaticamente appropriato). Se i PG non esplorano, il Cronista può accelerare il ritmo delle lettere: due in un giorno, o una al mattino invece che alla sera. L'Oberst si stanca dell'attesa. Ogni lettera contiene nuove informazioni sui 'criminali', dettagli via via più specifici, più inquietanti, che corrispondono sempre di più ai PG.
 
 --------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------
 LETTERA   CONTENUTO                                                                                                                                                                                     EFFETTO
@@ -36,9 +36,7 @@ ULTIMA    'Il processo si terrà all'alba, alla quercia del patibolo. Gli accusa
 ### Le Lettere sono Indistruttibili
 
 
-
-> **[FIX v1.1] Le lettere dell'Oberst non possono essere distrutte. Se bruciate, la scrittura emerge dalle ceneri, perfettamente leggibile. Se strappate, i frammenti si ricompongono nella tasca del PG. Se gettate nel torrente, Henkel le riporta: "Credo abbiate perso qualcosa." Tentare di distruggere una lettera: +1 GT (il rifiuto della verità accelera il ritorno della memoria). Le lettere sono estensioni del Diavolo: non sono carta e inchiostro.**
-
+Le lettere dell'Oberst non possono essere distrutte. Se bruciate, la scrittura emerge dalle ceneri, perfettamente leggibile. Se strappate, i frammenti si ricompongono nella tasca del PG. Se gettate nel torrente, Henkel le riporta: "Credo abbiate perso qualcosa." Tentare di distruggere una lettera: +1 GT (il rifiuto della verità accelera il ritorno della memoria). Le lettere sono estensioni del Diavolo: non sono carta e inchiostro.
 
 
 ### Il Corriere
@@ -48,7 +46,7 @@ Le lettere vengono consegnate da un uomo che si presenta come 'Henkel, attendent
 
 Henkel appare sempre in momenti di silenzio, alla fine di un pasto, durante un turno di guardia, quando un PG è solo. Consegna la lettera, attende che venga aperta, e se ne va. Non risponde a domande sull'Oberst. Se trattenuto con la forza, sorride e dice: 'L'Oberst non ama i ritardi.' Poi si libera, sempre. Le corde si sciolgono. Le mani scivolano. Non è umano.
 
-Attaccare Henkel [FIX v1.1]: Prima volta: nessun effetto meccanico, Henkel sorride. Seconda volta: +1 GT (la frustrazione alimenta i ricordi). Terza volta e successive: Henkel consegna una lettera EXTRA non programmata con un dettaglio specifico sul PG che lo ha attaccato. 'La violenza è il vostro linguaggio nativo, vero?'
+Attaccare Henkel : Prima volta: nessun effetto meccanico, Henkel sorride. Seconda volta: +1 GT (la frustrazione alimenta i ricordi). Terza volta e successive: Henkel consegna una lettera EXTRA non programmata con un dettaglio specifico sul PG che lo ha attaccato. 'La violenza è il vostro linguaggio nativo, vero?'
 
 
 > *Nota Cronista: Henkel non è un demone, è un aspetto del Diavolo, un'estensione della sua volontà. Non può essere ferito, ucciso o trattenuto. Se un PG prova a seguirlo, Henkel scompare dietro un albero, un angolo, una porta, e non c'è nessuno dall'altra parte. Non farne un antagonista fisico: è un messaggero. Questo lo rende molto più inquietante.*

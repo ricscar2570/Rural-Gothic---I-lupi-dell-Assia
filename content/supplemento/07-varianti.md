@@ -10,23 +10,23 @@ title: "Varianti di Gioco"
 
 I giocatori non sanno nulla. Ricevono i pregenerati con background e oggetti, ma senza i Segreti Terribili. La rivelazione avviene durante il gioco, attraverso le lettere e le prove. Questa è la modalità Angel Heart pura — il momento della scoperta è il cuore dell'esperienza.
 
-Rischio: Alcuni giocatori potrebbero sentirsi 'traditi' dalla rivelazione. Il Cronista deve avvertire il tavolo prima della sessione: 'I vostri personaggi hanno commesso atti gravi nel loro passato. Lo scoprirete durante il gioco. Se il concetto di interpretare personaggi moralmente compromessi vi mette a disagio, parlatemi prima di iniziare.' Il chaos testing v1.1 raccomanda la Variante Consapevole come default proprio per questo motivo.
+Rischio: Alcuni giocatori potrebbero sentirsi 'traditi' dalla rivelazione. Il Cronista deve avvertire il tavolo prima della sessione: 'I vostri personaggi hanno commesso atti gravi nel loro passato. Lo scoprirete durante il gioco. Se il concetto di interpretare personaggi moralmente compromessi vi mette a disagio, parlatemi prima di iniziare.' Si raccomanda la Variante Consapevole come default.
 
 
-### Variante 2: Gioco Consapevole (Raccomandata v1.1)
+### Variante 2: Gioco Consapevole (Raccomandata)
 
 
 I giocatori conoscono i Segreti Terribili dall'inizio. Sanno di essere i criminali. Il dramma non è la scoperta ma la gestione della colpa: come reagiscono sapendo ciò che hanno fatto? Confessano ai sopravvissuti? Cercano di fare ammenda? Si accusano a vicenda?
 
 Vantaggio: Roleplay più profondo fin dall'inizio. Nessun rischio di frustrazione alla rivelazione. I giocatori possono costruire archi narrativi consapevoli.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ⚠ FIX v1.1: Raccomandazione v1.1: Variante Consapevole come Default                                                                                                                                                                                                                                                                                    |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Il chaos testing ha dimostrato che la Variante Consapevole produce risultati narrativi superiori: 52% di finali Confessione (vs 27% nel Gioco Cieco), 92% soddisfazione nei gruppi narrativi. La tensione non diminuisce — anzi, aumenta perché i giocatori possono attivamente resistere, negare o accettare la colpa durante tutto l'arco narrativo. |
-|                                                                                                                                                                                                                                                                                                                                                        |
-| Raccomandata come default per tavoli con esperienza GDR. Il Gioco Cieco resta ottimo per gruppi nuovi che vogliono l'effetto sorpresa.                                                                                                                                                                                                                 |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Variante Consapevole come Default                                                                                                                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| La Variante Consapevole produce risultati narrativi superiori. La tensione non diminuisce: aumenta, perché i giocatori possono attivamente resistere, negare o accettare la colpa durante tutto l'arco narrativo. |
+|                                                                                                                                                                                                                   |
+| Raccomandata come default per tavoli con esperienza GDR. Il Gioco Cieco resta ottimo per gruppi nuovi che vogliono l'effetto sorpresa.                                                                            |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 ### Variante 3: Il Sesto È Innocente
@@ -48,19 +48,19 @@ Se il tavolo desidera la possibilità di redenzione, aggiungere questa regola: s
 
 Finale alternativo: L'Oberst si alza, si toglie i guanti per la prima volta. Le mani sotto sono ustionate, carbonizzate. 'Interessante. Non succedeva da... quanto? Secoli?' Scompare. Ma i PG non sono liberi — non nel senso che sperano. Sono liberi dalla dannazione soprannaturale, ma restano ciò che sono: disertori, criminali di guerra, uomini spezzati in un mondo che non li ha dimenticati. Il reggimento li cerca. I sopravvissuti li riconoscono. La giustizia umana li aspetta. Il Diavolo non ha perso: si è ritirato perché la sofferenza reale è più interessante di quella soprannaturale.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ⚠ FIX v1.1: Finali Misti e Tentazione Mista (Fix #12)                                                                                                                                      |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Se durante il Processo alcuni PG accettano la tentazione del Diavolo e altri rifiutano, NON forzare un finale unico. Ogni PG ha il suo finale individuale:                                 |
-|                                                                                                                                                                                            |
-| • PG che confessa = Finale Confessione individuale                                                                                                                                         |
-|                                                                                                                                                                                            |
-| • PG che nega = Finale Negazione individuale (oblio permanente)                                                                                                                            |
-|                                                                                                                                                                                            |
-| • PG che attacca = Finale Violenza (sconfitto dall'Oberst senza combattimento)                                                                                                             |
-|                                                                                                                                                                                            |
-| Il Cronista gestisce le scene finali in sequenza, dando a ogni giocatore il suo momento. I finali misti sono emersi nel 1.5% delle 300k sessioni simulate e producono sessioni memorabili. |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Finali Misti e Tentazione Mista                                                                                                                            |
++------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Se durante il Processo alcuni PG accettano la tentazione del Diavolo e altri rifiutano, NON forzare un finale unico. Ogni PG ha il suo finale individuale: |
+|                                                                                                                                                            |
+| • PG che confessa = Finale Confessione individuale                                                                                                         |
+|                                                                                                                                                            |
+| • PG che nega = Finale Negazione individuale (oblio permanente)                                                                                            |
+|                                                                                                                                                            |
+| • PG che attacca = Finale Violenza (sconfitto dall'Oberst senza combattimento)                                                                             |
+|                                                                                                                                                            |
+| Il Cronista gestisce le scene finali in sequenza, dando a ogni giocatore il suo momento. I finali misti sono rari ma producono sessioni memorabili.        |
++------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Non descrivere il finale con fretta. Dai a ogni giocatore il suo epilogo. Chiedi: 'Come reagisce il tuo personaggio?' Questo è il momento in cui lo scenario passa dalla storia del Cronista alla storia dei giocatori.
 
@@ -126,6 +126,3 @@ Quando i giocatori iniziano a capire che i criminali sono loro.
 
 
 ### Momento 1: La Rivelazione
-
-
-Questa sezione fornisce al Cronista un supporto strutturato per i tre momenti più delicati dello scenario. Non sostituisce il giudizio del Cronista, ma offre percorsi testati per gestire situazioni complesse.

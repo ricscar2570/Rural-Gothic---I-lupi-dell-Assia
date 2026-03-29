@@ -45,7 +45,7 @@ Pazienza: Infinita. Può aspettare ore, giorni, secoli. Non ha fretta. Non si ar
 Umorismo: Ha un senso dell'ironia devastante. 'Vi ho mandato a cercare criminali di guerra. Li avete trovati? Guardate nello specchio.' Non ride. Sorride. Il sorriso è peggio.
 
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ⚠ FIX v1.1: Attaccare l'Oberst                                                                                                                                                                                                                                                              |
+| Attaccare l'Oberst                                                                                                                                                                                                                                                                          |
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Il Diavolo non ha statistiche. Non può essere ferito, ucciso, intrappolato o ingannato. Qualsiasi tentativo di violenza contro l'Oberst fallisce automaticamente — l'arma attraversa il corpo come nebbia, la corda scivola, il fuoco si spegne. L'Oberst sorride: 'Apprezzo l'iniziativa.' |
 |                                                                                                                                                                                                                                                                                             |
@@ -73,7 +73,7 @@ Da leggere quando l'Oberst appare alla Quercia del Patibolo:
 
 
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ⚠ FIX v1.1: Tono del Processo per livello GT (Fix #11)                                                                                                                 |
+| Tono del Processo per livello GT                                                                                                                                       |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 0-2 GT: L'Oberst è rispettoso, quasi dispiaciuto. 'Mi rincresce, signori. Avrei preferito un esito diverso.' Il tono è quello di un giudice che condanna a malincuore. |
 |                                                                                                                                                                        |

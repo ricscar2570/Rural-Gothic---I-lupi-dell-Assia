@@ -78,7 +78,7 @@ i-lupi-dell-assia/
 
 ## Versione
 
-**v1.1** — Post Chaos Testing (300.000 sessioni simulate, 8 fix critici, 10 chiarificazioni)
+Scenario completo per Rural Gothic di Smart Bonsai Games.
 
 ## Licenza
 

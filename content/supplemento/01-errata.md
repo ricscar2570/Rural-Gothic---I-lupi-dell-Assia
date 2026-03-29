@@ -1,30 +1,30 @@
 ---
-title: "Errata v1.1: Fix dal Chaos Testing"
+title: "Errata e Chiarificazioni"
 ---
 
-# Errata v1.1: Fix dal Chaos Testing
+# Errata e Chiarificazioni
 
-Le seguenti correzioni derivano da 300.000 sessioni simulate con 12 archetipi di giocatori diversi. Ogni fix risolve un exploit o una lacuna identificata durante il testing. Le modifiche sono integrate nei rispettivi capitoli di questo supplemento e del Modulo Base v1.1.
+Le seguenti correzioni risolvono exploit e lacune identificati durante il playtesting.
 
---- ------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------ ---------
-#   EXPLOIT                                                                         FIX                                                                                              IMPATTO
+--- ----------------------------------------------------------------------- ------------------------------------------------------------------------------------------------ ---------
+#   EXPLOIT                                                                 FIX                                                                                              IMPATTO
 
-1   Loop Confessione (15.7%): confessare quotidianamente a Elijah azzera i GT       Confessione -1 GT una sola volta per PG per sopravvissuto, per l'intera partita                  CRITICO
+1   Loop Confessione: confessare quotidianamente a Elijah azzera i GT       Confessione -1 GT una sola volta per PG per sopravvissuto, per l'intera partita                  CRITICO
 
-2   Loop Sepoltura (12.8%): seppellire e dissotterrare ossa ripetutamente           Azione singola di sepoltura. Disturbare resti sepolti = +2 GT                                    CRITICO
+2   Loop Sepoltura: seppellire e dissotterrare ossa ripetutamente           Azione singola di sepoltura. Disturbare resti sepolti = +2 GT                                    CRITICO
 
-3   Protezione Permanente (10.4%): proteggere Hannah 24/7 con pericoli fabbricati   Max -2 GT totali via protezione. Il pericolo deve essere REALE, non provocato                    CRITICO
+3   Protezione Permanente: proteggere Hannah 24/7 con pericoli fabbricati   Max -2 GT totali via protezione. Il pericolo deve essere REALE, non provocato                    CRITICO
 
-4   Trappola GM Evitata (9.5%): spendere GM solo come Fortuna, mai come indizi      Ogni 3 GM spesi come Fortuna → +1 GT flashback involontario                                      ALTO
+4   Trappola GM Evitata: spendere GM solo come Fortuna, mai come indizi     Ogni 3 GM spesi come Fortuna → +1 GT flashback involontario                                      ALTO
 
-5   Uccidere Sopravvissuti (8.2%): eliminare Elijah/Hannah per bloccare GT/GM       Documenti persistono. +3 GT (Elijah). Violenza su Hannah: bloccata narrativamente dal Cronista   CRITICO
+5   Uccidere Sopravvissuti: eliminare Elijah/Hannah per bloccare GT/GM      Documenti persistono. +3 GT (Elijah). Violenza su Hannah: bloccata narrativamente dal Cronista   CRITICO
 
-6   Distruggere Lettere (6.3%): bruciare lettere per evitare +1 GT                  Lettere indistruttibili (si ricompongono). Tentativo = +1 GT                                     ALTO
+6   Distruggere Lettere: bruciare lettere per evitare +1 GT                 Lettere indistruttibili (si ricompongono). Tentativo = +1 GT                                     ALTO
 
-7   Fuga G0 (6.4%): tentare la fuga prima che la valle si chiuda                    La valle si chiude al momento dell'arrivo. Henkel appare se tentata                              MEDIO
+7   Fuga G0: tentare la fuga prima che la valle si chiuda                   La valle si chiude al momento dell'arrivo. Henkel appare se tentata                              MEDIO
 
-8   Attaccare Henkel (4.2%): attaccare il messaggero senza conseguenze              1° attacco = nessun effetto. 2° = +1 GT. 3°+ = lettera extra con dettaglio personale             MEDIO
---- ------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------ ---------
+8   Attaccare Henkel: attaccare il messaggero senza conseguenze             1° attacco = nessun effetto. 2° = +1 GT. 3°+ = lettera extra con dettaglio personale             MEDIO
+--- ----------------------------------------------------------------------- ------------------------------------------------------------------------------------------------ ---------
 
 
 ### Chiarificazioni Aggiuntive

@@ -8,7 +8,7 @@ title: "Luoghi Importanti"
 
 Un guscio carbonizzato che un tempo era una cappella congregazionalista. Il tetto è crollato. Le panche sono cenere. L'altare è ancora in piedi, miracolosamente intatto, con una Bibbia aperta sulla pagina del Giudizio Universale. Il registro parrocchiale, parzialmente bruciato, elenca ventidue nomi. Ventidue anime. Due linee sono state tracciate dopo la lista, con grafia diversa: 'Sono venuti dal freddo. Parlavano tedesco. Non hanno risparmiato nessuno.'
 
-Scoperta: +1 GM (registro). Pregare all'altare con sincero rimorso: -1 GT (una sola volta per gruppo per l'intera partita [v1.1]). Dormire qui: nessun incubo, ma visioni dei ventidue fantasmi che osservano in silenzio.
+Scoperta: +1 GM (registro). Pregare all'altare con sincero rimorso: -1 GT (una sola volta per gruppo per l'intera partita ). Dormire qui: nessun incubo, ma visioni dei ventidue fantasmi che osservano in silenzio.
 
 2, La Fattoria Whitmore
 
@@ -26,7 +26,7 @@ Scoperta: +1 GM (diario Martha). Il diario descrive una canzone, se un PG la ric
 
 Un ruscello che attraversa la valle da nord a sud. L'acqua è limpida ma porta con sé una patina oleosa iridescente, non contaminazione, ma qualcosa di più antico. Nel tratto vicino al ponte crollato, le ossa affiorano dal letto del torrente. Costole, femori, un cranio con un foro di proiettile. Tra i resti: bottoni di ottone con l'aquila dell'Assia-Kassel.
 
-Scoperta: +1 GM +1 GT. Raccogliere i bottoni: corrispondono alle uniformi dei PG. Seppellire i resti con rispetto: -1 GT (azione singola per l'intera partita [v1.1]), +1 GM (i fantasmi 'indicano' la Fossa). Dissotterrare o disturbare i resti già sepolti: +2 GT [v1.1].
+Scoperta: +1 GM +1 GT. Raccogliere i bottoni: corrispondono alle uniformi dei PG. Seppellire i resti con rispetto: -1 GT (azione singola per l'intera partita ), +1 GM (i fantasmi 'indicano' la Fossa). Dissotterrare o disturbare i resti già sepolti: +2 GT .
 
 5, La Fossa
 
@@ -44,7 +44,7 @@ Scoperta: +1 GM. Trovare la capanna richiede esplorazione del bosco (Prova). Qui
 
 Sulla collina orientale, in una radura riparata dal vento, ci sono i resti di un accampamento militare. Tende marcite, un cerchio di pietre per il fuoco, bottiglie di birra tedesca, e, incisi su un tronco, i nomi di sei soldati. I nomi dei PG. Con una data: febbraio 1779. L'accampamento ha un'aura di familiarità impossibile da ignorare. I PG sanno dove sono le latrine prima di cercarle. Conoscono il punto dove si stendevano le sentinelle. La memoria muscolare è più forte dell'oblio.
 
-Scoperta: +2 GM +2 GT. L'evidenza più schiacciante dopo la Fossa. Prova Volontà (15) o flashback totale di tre giorni di violenza. [v1.1] Il tronco con i nomi è indistruttibile (il Diavolo lo protegge).
+Scoperta: +2 GM +2 GT. L'evidenza più schiacciante dopo la Fossa. Prova Volontà (15) o flashback totale di tre giorni di violenza. Il tronco con i nomi è indistruttibile (il Diavolo lo protegge).
 
 8, La Quercia del Patibolo
 

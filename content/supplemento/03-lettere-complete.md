@@ -7,7 +7,7 @@ title: "Le Lettere dell'Oberst: Testo Completo"
 Ogni lettera è scritta con calligrafia impeccabile su carta militare pesante, sigillata con ceralacca nera. Il sigillo mostra quello che sembra un'aquila prussiana ma è un capro (Prova Difficoltà 15 per notarlo).
 
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ⚠ FIX v1.1: Lettere Indistruttibili (Fix #6)                                                                                                                                                                                                           |
+| Lettere Indistruttibili                                                                                                                                                                                                                                |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Le lettere dell'Oberst non possono essere distrutte. Se bruciate, la cenere si ricompone. Se strappate, i pezzi si riuniscono. Se sepolte, riemergono al mattino sul letto del PG. L'unico modo per 'eliminare' una lettera è accettarne il contenuto. |
 |                                                                                                                                                                                                                                                        |
@@ -123,7 +123,7 @@ Ogni lettera è scritta con calligrafia impeccabile su carta militare pesante, s
 
 
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ⚠ FIX v1.1: Consegna Lettere e Attacco a Henkel (Fix #8)                                                                                                                                     |
+| Consegna Lettere e Attacco a Henkel                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Henkel consegna le lettere sempre al momento più drammaticamente appropriato — a colazione, dopo un ritrovamento inquietante, durante la notte. Non può essere fermato, evitato o eliminato. |
 |                                                                                                                                                                                              |

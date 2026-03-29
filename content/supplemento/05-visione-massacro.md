@@ -24,4 +24,4 @@ Trigger: 5 GT OPPURE dormire nel Bivacco OPPURE toccare le ossa nel Torrente.
 
 Incubi permanenti: ogni riposo richiede Prova Volontà (13) o niente recupero END.
 
-Bonus confessione: se un PG che ha avuto la visione confessa a Elijah, -2 GT invece di -1. Il limite v1.1 resta valido: una sola volta per PG per sopravvissuto, ma il bonus raddoppia l'effetto di quell'unica confessione.
+Bonus confessione: se un PG che ha avuto la visione confessa a Elijah, -2 GT invece di -1. Il limite resta valido (una sola volta per PG per sopravvissuto), ma il bonus raddoppia l'effetto di quell'unica confessione.

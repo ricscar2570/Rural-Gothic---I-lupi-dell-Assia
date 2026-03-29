@@ -14,6 +14,4 @@ title: "Copertina"
 
 *Ispirato a Angel Heart: Ascensore per l'Inferno*
 
-**v1.1 — Post Chaos Testing**
-
 </div>
