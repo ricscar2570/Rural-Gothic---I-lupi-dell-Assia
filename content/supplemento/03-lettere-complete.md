@@ -122,16 +122,16 @@ Ogni lettera è scritta con calligrafia impeccabile su carta militare pesante, s
 > *Nota Cronista: La firma 'Mefistofele' è la prima volta che l'Oberst rivela apertamente la sua identità. Se i giocatori non hanno ancora capito, questo è il momento. Se hanno già capito, è la conferma definitiva.*
 
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Consegna Lettere e Attacco a Henkel                                                                                                                                                          |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Henkel consegna le lettere sempre al momento più drammaticamente appropriato — a colazione, dopo un ritrovamento inquietante, durante la notte. Non può essere fermato, evitato o eliminato. |
-|                                                                                                                                                                                              |
-| Se i PG attaccano Henkel:                                                                                                                                                                    |
-|                                                                                                                                                                                              |
-| • 1° attacco: Nessun effetto. Henkel schiva/incassa senza reagire, porge la lettera, se ne va.                                                                                               |
-|                                                                                                                                                                                              |
-| • 2° attacco: +1 GT. Henkel sussurra: 'L'Oberst nota tutto.'                                                                                                                                 |
-|                                                                                                                                                                                              |
-| • 3° attacco e successivi: Henkel consegna una lettera EXTRA con un dettaglio personale sul PG che ha attaccato — un ricordo privato del massacro che nessuno dovrebbe conoscere.            |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Consegna Lettere e Attacco a Henkel                                                                                                                                                       |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Henkel consegna le lettere sempre al momento più narrativamente opportuno — a colazione, dopo un ritrovamento inquietante, durante la notte. Non può essere fermato, evitato o eliminato. |
+|                                                                                                                                                                                           |
+| Se i PG attaccano Henkel:                                                                                                                                                                 |
+|                                                                                                                                                                                           |
+| • 1° attacco: Nessun effetto. Henkel schiva/incassa senza reagire, porge la lettera, se ne va.                                                                                            |
+|                                                                                                                                                                                           |
+| • 2° attacco: +1 GT. Henkel sussurra: 'L'Oberst nota tutto.'                                                                                                                              |
+|                                                                                                                                                                                           |
+| • 3° attacco e successivi: Henkel consegna una lettera EXTRA con un dettaglio personale sul PG che ha attaccato — un ricordo privato del massacro che nessuno dovrebbe conoscere.         |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

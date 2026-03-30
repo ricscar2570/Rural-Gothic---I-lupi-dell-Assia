@@ -8,7 +8,7 @@ Ecco il cuore della trappola: i Gettoni Mistero funzionano normalmente, rapprese
 
 I GM possono essere spesi normalmente (1 GM = 1 Luck, o suggerimento dal Cronista). Ma il suggerimento del Cronista sarà sempre un altro frammento di verità, un dettaglio che collega i PG ai crimini. Chiedere aiuto significa accelerare la propria dannazione. Ogni 3 GM spesi come Luck, il Cronista impone un flashback involontario (+1 GT), la conoscenza preme dall'interno, che la si usi o meno.
 
-Trigger Gettoni Mistero
+Condizioni per i Gettoni Mistero
 
 ------------------------ -------------------------------------------------------------------------------------------- ---------------------
 LUOGO/AZIONE             SCOPERTA                                                                                     EFFETTO

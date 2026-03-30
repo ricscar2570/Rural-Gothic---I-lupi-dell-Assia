@@ -12,9 +12,9 @@ I soldati massacrarono gli uomini. Bruciarono le fattorie. Gettarono i corpi nel
 
 Ma qualcuno guardava.
 
-Il Diavolo, che in questa valle aveva radici antiche, che conosceva ogni anima e ogni debito, raccolse le atrocità come un contabile raccoglie crediti. E offrì ai mercenari un dono avvelenato: l'oblio. Ne cancellò i ricordi. Permise loro di tornare al reggimento, di continuare a vivere, di dormire senza incubi. Per sei mesi.
+Il Diavolo, dalle radici antiche in questa valle, conosceva ogni anima e ogni debito. Raccolse le atrocità come un contabile raccoglie crediti. E offrì ai mercenari un dono avvelenato: l'oblio. Ne cancellò i ricordi. Permise loro di tornare al reggimento, di continuare a vivere, di dormire senza incubi. Per sei mesi.
 
-Ora, nella primavera del 1779, i sei mercenari ricevono nuovi ordini dal loro superiore, l'Oberst Friedrich von Steinmark: devono recarsi in una valle remota del Connecticut per catturare un gruppo di disertori assiani che hanno commesso crimini inenarrabili contro civili innocenti. Le descrizioni dei criminali sono vaghe ma inquietanti, dettagli che sembrano quasi familiari.
+Ora, nella primavera del 1779, i sei mercenari ricevono nuovi ordini dal loro superiore, l'Oberst Friedrich von Steinmark: devono recarsi in una valle remota del Connecticut per catturare un gruppo di disertori assiani che hanno commesso crimini inenarrabili contro civili innocenti. Le descrizioni dei criminali sono vaghe ma inquietanti, certi dettagli risuonano di una familiarità inquietante.
 
 L'Oberst von Steinmark non esiste. Non è mai esistito. Le lettere arrivano dal Diavolo stesso, che ha atteso con pazienza che i mercenari costruissero nuove vite, nuove identità, nuove certezze. Ora li rimanda sulla scena del crimine perché giudichino sé stessi prima di scoprire di essere i giudicati.
 

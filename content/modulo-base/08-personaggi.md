@@ -34,7 +34,7 @@ Violenza contro i sopravvissuti: Uccidere Elijah: +3 GT immediati, documenti rim
 
 Henkel, Attendente dell'Oberst
 
-Non-umano. Appare giovane, biondo, con uniforme prussiana impeccabile, troppo pulita per un uomo che attraversa boschi e fango. Non mangia, non beve, non dorme. Non lascia impronte. Consegna le lettere e osserva. Se qualcuno gli chiede chi è realmente, inclina la testa come un uccello e dice: 'Sono al servizio dell'Oberst, come voi.' Poi sorride. Troppi denti.
+Non-umano. Appare giovane, biondo, con uniforme assiana impeccabile, troppo pulita per un uomo che attraversa boschi e fango. Non mangia, non beve, non dorme. Non lascia impronte. Consegna le lettere e osserva. Se qualcuno gli chiede chi è realmente, inclina la testa come un uccello e dice: 'Sono al servizio dell'Oberst, come voi.' Poi sorride. Troppi denti.
 
 
 ### I Fantasmi di Shepherd's Hollow

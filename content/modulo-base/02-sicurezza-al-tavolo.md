@@ -4,7 +4,7 @@ title: "Sicurezza al Tavolo"
 
 # Sicurezza al Tavolo
 
-Questo scenario tratta temi intensi: crimini di guerra, massacro di civili (inclusa violenza che coinvolge una bambina di otto anni), suicidio, impiccagione, trauma psicologico e perdita progressiva di agency. Non esiste un finale positivo nel senso tradizionale.
+Questo scenario tratta temi intensi: crimini di guerra, massacro di civili (inclusa violenza che coinvolge una bambina di otto anni), suicidio, impiccagione, trauma psicologico e perdita progressiva della capacità d'azione. Non esiste un finale positivo nel senso tradizionale.
 
 Prima di iniziare, il Cronista deve:
 

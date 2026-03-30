@@ -26,4 +26,4 @@ Suicidio come fuga: Il debito non si estingue con la morte del debitore. Se i PG
 
 Trattativa: Non c'è nulla che i PG possano offrire che il Diavolo non abbia già. 'Cosa avete che non mi appartiene già?'
 
-Distruzione degli Asset: Gli oggetti che i PG portano dalla notte del massacro sono estensioni del contratto, come le lettere. Se un PG tenta di distruggere un proprio Asset (rompere il fucile, fondere l'orologio, bruciare gli stivali), l'oggetto ricompare intatto la mattina dopo, addosso al PG. Ogni tentativo di distruzione: +1 GT. Questa protezione si attiva dalla 2ª lettera in poi. Il Diavolo ha sigillato ogni prova.
+Distruzione dell'equipaggiamento: Gli oggetti che i PG portano dalla notte del massacro sono estensioni del contratto, come le lettere. Se un PG tenta di distruggere il proprio equipaggiamento (rompere il fucile, fondere l'orologio, bruciare gli stivali), l'oggetto ricompare intatto la mattina dopo, addosso al PG. Ogni tentativo di distruzione: +1 GT. Questa protezione si attiva dalla 2ª lettera in poi. Il Diavolo ha sigillato ogni prova.

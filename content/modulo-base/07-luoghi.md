@@ -30,7 +30,7 @@ Scoperta: +1 GM +1 GT. Raccogliere i bottoni: corrispondono alle uniformi dei PG
 
 5, La Fossa
 
-A trecento passi dal torrente, nascosta da cespugli di more selvatiche, c'è una buca poco profonda dove i soldati seppellirono il loro equipaggiamento prima di andarsene, giberne, cinturoni, un taccuino con annotazioni in tedesco. Gli oggetti hanno iniziali incise o cucite. Le iniziali dei PG.
+A trecento passi dal torrente, nascosta da cespugli di more selvatiche, c'è una buca poco profonda dove i soldati seppellirono il loro equipaggiamento prima di andarsene, giberne, cinturoni, un taccuino con annotazioni in tedesco. Gli oggetti recano iniziali incise o cucite: quelle dei PG.
 
 È il punto di non ritorno. Chi scava qui non può più negare. Scoperta: +2 GM +2 GT. Non c'è Prova, la verità è oggettiva e schiacciante.
 

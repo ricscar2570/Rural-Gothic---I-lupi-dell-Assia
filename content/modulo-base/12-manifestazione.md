@@ -12,7 +12,7 @@ L'Oberst in Persona
 
 Friedrich von Steinmark appare alla Quercia del Patibolo. Non è più una voce nelle lettere: è lì, in carne e ossa. O almeno sembra. Alto, magro, con un'uniforme prussiana nera che non è di nessun reggimento esistente. Il volto è gentile, quasi paterno. Gli occhi sono sbagliati, troppo profondi, troppo vecchi, con riflessi di fiamme che non esistono.
 
-Parla in tedesco perfetto, poi in inglese, poi nella lingua che ogni PG conosce meglio, comprese lingue che non ha ragione di conoscere. Non urla. Non minaccia. È cortese, ragionevole, quasi compassionevole. Questo lo rende terrificante.
+Parla in tedesco perfetto, poi in inglese, poi nella lingua che ogni PG conosce meglio, comprese lingue che non ha ragione di conoscere. Non urla. Non minaccia. È cortese, ragionevole, quasi compassionevole. Ed è proprio questo a renderlo spaventoso.
 
 Meccaniche del Processo
 

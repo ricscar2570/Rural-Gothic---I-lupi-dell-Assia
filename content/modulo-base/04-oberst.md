@@ -14,7 +14,7 @@ Il Diavolo non ha un nome vero. In questa storia è l'Oberst Friedrich von Stein
 ### Le Lettere dell'Oberst
 
 
-Le lettere sono il meccanismo centrale dello scenario. L'Oberst ne invia una alla fine di ogni giornata (o quando il Cronista lo ritiene drammaticamente appropriato). Se i PG non esplorano, il Cronista può accelerare il ritmo delle lettere: due in un giorno, o una al mattino invece che alla sera. L'Oberst si stanca dell'attesa. Ogni lettera contiene nuove informazioni sui 'criminali', dettagli via via più specifici, più inquietanti, che corrispondono sempre di più ai PG.
+Le lettere sono il meccanismo centrale dello scenario. L'Oberst ne invia una alla fine di ogni giornata (o quando il Cronista lo ritiene narrativamente opportuno). Se i PG non esplorano, il Cronista può accelerare il ritmo delle lettere: due in un giorno, o una al mattino invece che alla sera. L'Oberst non ama l'attesa. Ogni lettera contiene nuove informazioni sui 'criminali', dettagli via via più specifici, più inquietanti, che corrispondono sempre di più ai PG.
 
 --------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------
 LETTERA   CONTENUTO                                                                                                                                                                                     EFFETTO
@@ -49,4 +49,4 @@ Henkel appare sempre in momenti di silenzio, alla fine di un pasto, durante un t
 Attaccare Henkel : Prima volta: nessun effetto meccanico, Henkel sorride. Seconda volta: +1 GT (la frustrazione alimenta i ricordi). Terza volta e successive: Henkel consegna una lettera EXTRA non programmata con un dettaglio specifico sul PG che lo ha attaccato. 'La violenza è il vostro linguaggio nativo, vero?'
 
 
-> *Nota Cronista: Henkel non è un demone, è un aspetto del Diavolo, un'estensione della sua volontà. Non può essere ferito, ucciso o trattenuto. Se un PG prova a seguirlo, Henkel scompare dietro un albero, un angolo, una porta, e non c'è nessuno dall'altra parte. Non farne un antagonista fisico: è un messaggero. Questo lo rende molto più inquietante.*
+> *Nota Cronista: Henkel non è un demone, è un aspetto del Diavolo, un'estensione della sua volontà. Non può essere ferito, ucciso o trattenuto. Se un PG prova a seguirlo, Henkel scompare dietro un albero, un angolo, una porta, e non c'è nessuno dall'altra parte. Evitate di renderlo un antagonista fisico: è un messaggero. Ed è proprio questo a renderlo inquietante.*

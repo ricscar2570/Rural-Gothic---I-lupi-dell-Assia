@@ -12,7 +12,7 @@ LA CONFESSIONE, Caduta con Dignità
 
 Requisiti: I PG confessano i propri crimini. Almeno uno chiede genuinamente perdono. GT sotto 6 al momento della confessione.
 
-Risultato: L'Oberst sorride, quasi con rispetto. 'Siete i primi che non mentono.' Le corde della Quercia si stringono da sole. I PG vengono trovati impiccati settimane dopo da una pattuglia britannica. Il rapporto ufficiale parla di 'suicidio di gruppo.' Ma i volti dei cadaveri sono sereni, quasi sorridenti. Elijah e Hannah lasciano la valle. Non racconteranno mai cosa è successo.
+Risultato: L'Oberst sorride, quasi con rispetto. 'Siete i primi a non mentire.' Le corde della Quercia si stringono da sole. I PG vengono trovati impiccati settimane dopo da una pattuglia britannica. Il rapporto ufficiale parla di 'suicidio di gruppo.' Ma i volti dei cadaveri sono sereni, quasi sorridenti. Elijah e Hannah lasciano la valle. Non racconteranno mai cosa è successo.
 
 
 > *Nota Cronista: Questo è il finale 'migliore', non una vittoria, ma una morte con dignità. I PG accettano la giustizia che meritano. Il Diavolo rispetta questo, a suo modo.*
